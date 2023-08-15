@@ -14,10 +14,8 @@ Machine Learning algorithms used:
 4. K-Nearest Neighbours (Scikit-learn)
 5. Decision Tree (Scikit-learn)
 6. Random Forest (Scikit-learn)
-7. XGBoost (Scikit-learn)
-8. Artificial Neural Network with 1 Hidden layer (Keras)
 
-Accuracy achieved: 95% (Random Forest)
+Accuracy achieved: 90.6% (Random Forest)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
 
