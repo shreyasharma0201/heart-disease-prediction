@@ -17,5 +17,4 @@ Machine Learning algorithms used:
 
 Accuracy achieved: 90.6% (Random Forest)
 
-Dataset used: [https://www.kaggle.com/ronitf/heart-disease-uci](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
-
+Dataset used: https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci
